@@ -9,5 +9,5 @@
 Определение токсичности комментариев
 
 ## Используемые библиотеки
-*Python, Pandas, BERT*
+*Python, Pandas, Scikit-Learn, Transformers, PyTorch, BERT*
 
